@@ -1,5 +1,5 @@
 {
-  "name"        : "wponion/wponion-sniffs",
+  "name"        : "wponion/phpcs-sniffs",
   "description" : "Collection of PHP_CodeSniffer sniffs for WPOnion.",
   "type"        : "phpcodesniffer-standard",
   "support"     : {
