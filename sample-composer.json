@@ -1,0 +1,5 @@
+{
+  "scripts" : {
+	"phpcs" : "phpcs --standard=wponion-sniffs"
+  }
+}
